@@ -1,13 +1,13 @@
 ---
 title: My first blog post
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/eggs.jpg
+image: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/oksana-taran-xB4ExGcUai0-unsplash.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Threads
   subtitle: Illustration
-  thumbnail: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/eggs.jpg
+  thumbnail: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/oksana-taran-xB4ExGcUai0-unsplash.jpg
 ---
 
 We has so much to say...just not yet.
