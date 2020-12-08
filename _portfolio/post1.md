@@ -1,7 +1,8 @@
 ---
 title: My first blog post
-subtitle:subtitle lorem ipsum dolor sit amet consectetur.
-image: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/eggs.jpg
+subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+image: assets/img/balance/christophe-hautier-902vnYeoWS4-unsplash.jpg
+
 alt: Shirts on a hanger
 
 caption:
