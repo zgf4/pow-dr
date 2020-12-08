@@ -28,7 +28,7 @@ portfolio:
 blog:
     title: "pow-dr Blog"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: blog
 
 
 timeline:
