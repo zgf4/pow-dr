@@ -23,7 +23,7 @@ description: "Load balancing and energy consumption analytics"
 author     : Your Name
 logo       :     #optional, defaults to site title
   path: assets\img\powdrlogo.png
-  height: 60 #height in px, defaults to 52px
+  height: 100 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here
