@@ -1,7 +1,7 @@
 ---
 title: Project Threads
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/eggs.jpg
 alt: Shirts on a hanger
 
 caption:
