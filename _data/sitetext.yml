@@ -83,8 +83,8 @@ team:
     section: team
     people:
       - name: "Greer Gosnell"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
+        role: "Market development"
+        image: assets/img/team/avatar.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -92,9 +92,9 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Ralf Martin"
+        role: "Research and Innovation"
+        image: assets/img/team/ralf.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -102,9 +102,9 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
+      - name: "Zeynep Gurguc"
+        role: "Operations"
+        image: assets/img/team/zeynep.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
