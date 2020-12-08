@@ -1,13 +1,13 @@
 ---
 title: My first blog post
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/eggs.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Threads
   subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/eggs.jpg
 ---
 
 We has so much to say...just not yet.
