@@ -20,15 +20,10 @@ services:
         icon: fab temperature-down
 
 portfolio:
-    title: "Portfolio"
+    title: "Blog - Latest Posts"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
 
-
-blog:
-    title: "pow-dr Blog"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: blog
 
 
 timeline:
