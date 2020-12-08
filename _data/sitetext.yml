@@ -1,5 +1,5 @@
 header:
-    title: Welcome to powdr!
+    title: Welcome to pow-dr!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
@@ -27,7 +27,7 @@ portfolio:
 blog:
     title: "powdr Blog"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: blog
+    section: portfolio
 
 
 timeline:
