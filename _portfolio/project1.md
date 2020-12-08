@@ -5,9 +5,9 @@ image: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/eg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Musings
+  subtitle: Keeping things balanced
+  thumbnail: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/eggs.jpg
 ---
 Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
