@@ -24,8 +24,9 @@ portfolio:
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
 
+
 blog:
-    title: "powdr Blog"
+    title: "pow-dr Blog"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
 
