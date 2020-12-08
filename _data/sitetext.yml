@@ -82,7 +82,7 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
+      - name: "Greer Gosnell"
         role: "Lead Designer"
         image: assets/img/team/1.jpg
         social:
