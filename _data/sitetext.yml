@@ -1,5 +1,5 @@
 header:
-    title: Welcome to our Studio!
+    title: Welcome to powdr!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
@@ -9,13 +9,13 @@ services:
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Load balancing"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Granular energy monitoring"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "CO2 mitigation"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
