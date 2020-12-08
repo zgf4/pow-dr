@@ -24,8 +24,6 @@ portfolio:
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
 
-
-
 timeline:
     title: "About" 
     text: "Lorem ipsum timeline"
@@ -61,9 +59,6 @@ about:
     title: "About Us"
     text: "our story"
     section: about
-
-
-
 #clients:
 #    section: clients
 #    max-height: 100px
@@ -115,7 +110,6 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
     section: contact
     
 footer:
