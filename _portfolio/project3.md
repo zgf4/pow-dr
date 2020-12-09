@@ -2,7 +2,7 @@
 title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/leonardo-iheme-38KUW3hB0ec-unsplash.jpg
-alt: 
+alt: Hi
 
 caption:
   title: Finish
