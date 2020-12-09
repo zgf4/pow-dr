@@ -6,21 +6,21 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "We help to make electricity cleaner and more affordable"
     section: services
     list:
       - title: "Load balancing"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas power-off #find more at https://fontawesome.com/icons
-      - title: "Granular energy monitoring"
+      - title: "High resolution energy monitoring and analytics"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop       
       - title: "CO2 mitigation"
-        desc: "Your description here, full **Markdown** support"
+        desc: "We move power consumption to the least polluting times"
         icon: fab temperature-down
 
 portfolio:
-    title: "Blog - Latest Posts"
+    title: "Latest Posts"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
 
