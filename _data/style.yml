@@ -4,5 +4,5 @@ white: "#FF99EE"
 black: "#000"
 
 #Image Customization
-header-image: "../img/lightning.jpg"
+header-image:  "../img/lightning.jpg"
 contact-image: "../img/shout.jpg"
