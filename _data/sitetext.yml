@@ -16,8 +16,11 @@ services:
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop       
       - title: "CO2 mitigation"
-        desc: "We move power consumption to the least polluting times"
+        desc: "We move power co
+        nsumption to the least polluting times"
         icon: fab temperature-down
+
+
 
 portfolio:
     title: "Latest Posts"
@@ -72,14 +75,24 @@ about:
 #        logo: assets/img/clients/designmodo.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "OUR TEAM"
+    text: ""
+    subtext: ""
     section: team
     people:
       - name: "Greer Gosnell"
         role: "Market development"
         image: assets/img/team/avatar.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Kate Lowes"
+        role: "Technology"
+        image: assets/img/team/kate.JPG
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
